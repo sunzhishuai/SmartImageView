@@ -8,6 +8,7 @@
     tools:context="com.reliance.smartimageview.MainActivity">
 
     <com.reliance.smartimageview.SmartImageView
+        android:background="@android:color/white"
         android:id="@+id/siv"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
